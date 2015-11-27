@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+  <contact id="simone.deponti">
+    <name>Simone</name>
+    <surname>Deponti</surname>
+    <company name="Abstract">
+      <role>Teacher</role>
+      <role>Developer</role>
+    </company>
+  </contact>
+  <contact id="simone.orsi">
+    <name>Simone</name>
+    <surname>Orsi</surname>
+    <company name="Abstract">
+      <role>Developer</role>
+      <role>Teacher</role>
+    </company>
+  </contact>
+  <meta>
+    <txn>1001</txn>
+  </meta>
+</contacts>
